@@ -10,5 +10,6 @@
     <toolWindow group="Debugger messages" />
     <toolWindow group="Inspection Results" />
     <toolWindow group="Web Deployment: Remote Host" />
+    <toolWindow group="Web Deployment: File Transfer" />
   </component>
 </application>
