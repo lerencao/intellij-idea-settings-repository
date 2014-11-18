@@ -60,6 +60,13 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
+      </map>
+    </option>
+  </component>
   <component name="FindSettings">
     <option name="SEARCH_OVERLOADED_METHODS" value="false" />
     <option name="SEARCH_IN_LIBRARIES" value="false" />
@@ -273,7 +280,7 @@
     <option name="EXPERT_MODE" value="true" />
   </component>
   <component name="SvnApplicationSettings">
-    <option name="mySvnCommandLine" value="C:\Program Files (x86)\Subversion\bin\svn.exe" />
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
   </component>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="TAB" />
