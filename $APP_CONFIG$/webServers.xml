@@ -71,6 +71,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="8e6ed7c2-51a2-4063-bf2f-f43d595dd3fe" name="Maison Souquet" url="http://www.maisonsouquet.com">
+        <fileTransfer host="ftp.maisonsouquet.com" port="21" password="df9cdfdedfe2dfebdfe5dfc9df98dffedfdfdfcedfdddfe5dff2dfd3dfdcdf99" username="web@maisonsouquet.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
