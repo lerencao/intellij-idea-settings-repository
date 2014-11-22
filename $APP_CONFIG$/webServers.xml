@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="WebServers">
     <option name="servers">
@@ -65,7 +64,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="21b80bd7-678a-48c1-89bf-808107790b85" name="Bureau Parade" url="http://ftp.bureauparade.com">
+      <webServer id="21b80bd7-678a-48c1-89bf-808107790b85" name="Bureau Parade" url="http://bureauparade.com">
         <fileTransfer host="ftp.bureauparade.com" port="21" rootFolder="/www" password="dfcedfcfdfcddfcbdfdfdfc6dfc6dfcfdf99df99" username="bureaupav">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
@@ -78,4 +77,3 @@
     </sftpAdvancedGlobalOptions>
   </component>
 </application>
-
