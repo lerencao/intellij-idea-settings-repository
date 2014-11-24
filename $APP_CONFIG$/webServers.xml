@@ -44,7 +44,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="843cc04e-c5a7-426d-8411-7d4b1db0f94f" name="Maison Athénée" url="http://maisonathenee.com">
-        <fileTransfer host="maisonathenee.com" port="21" password="dfdddfd9dffedf9bdfc4df9cdffadffddfeddff2df9bdfcbdfccdffddfc4dfed" username="web@maisonathenee.com">
+        <fileTransfer host="maisonathenee.com" port="21" rootFolder="/wp-content/themes/athenee" password="dfdddfd9dffedf9bdfc4df9cdffadffddfeddff2df9bdfcbdfccdffddfc4dfed" username="web@maisonathenee.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -72,7 +72,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="8e6ed7c2-51a2-4063-bf2f-f43d595dd3fe" name="Maison Souquet" url="http://www.maisonsouquet.com">
-        <fileTransfer host="ftp.maisonsouquet.com" port="21" password="df9cdfdedfe2dfebdfe5dfc9df98dffedfdfdfcedfdddfe5dff2dfd3dfdcdf99" username="web@maisonsouquet.com">
+        <fileTransfer host="ftp.maisonsouquet.com" port="21" rootFolder="/wp-content/themes/souquet" password="df9cdfdedfe2dfebdfe5dfc9df98dffedfdfdfcedfdddfe5dff2dfd3dfdcdf99" username="web@maisonsouquet.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
