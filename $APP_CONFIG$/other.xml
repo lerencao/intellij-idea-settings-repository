@@ -360,4 +360,5 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
 </application>
