@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="Git.Application.Settings">
     <option name="myPathToGit" value="git" />
@@ -15,9 +14,12 @@
           <option name="url" value="https://github.com/quentint/frontend-starter-kit.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/rue89-tech/upian.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev" />
+    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev\Rue89" />
   </component>
 </application>
-
