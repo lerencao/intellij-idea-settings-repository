@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="03c43566-eabb-444f-bcfb-47231d0d60a5" name="eM-Paris" url="http://www.edumedia-sciences.com">
-        <fileTransfer host="212.129.18.254" port="22" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
+        <fileTransfer host="212.129.18.254" port="22" rootFolder="/srv/data/bavKeod8/" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -64,8 +64,15 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="21b80bd7-678a-48c1-89bf-808107790b85" name="Bureau Parade" url="http://bureauparade.com">
+      <webServer id="21b80bd7-678a-48c1-89bf-808107790b85" name="Bureau Parade" url="http://ftp.bureauparade.com">
         <fileTransfer host="ftp.bureauparade.com" port="21" rootFolder="/www" password="dfcedfcfdfcddfcbdfdfdfc6dfc6dfcfdf99df99" username="bureaupav">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8e6ed7c2-51a2-4063-bf2f-f43d595dd3fe" name="Maison Souquet" url="http://www.maisonsouquet.com">
+        <fileTransfer host="ftp.maisonsouquet.com" port="21" password="df9cdfdedfe2dfebdfe5dfc9df98dffedfdfdfcedfdddfe5dff2dfd3dfdcdf99" username="web@maisonsouquet.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
