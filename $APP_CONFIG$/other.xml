@@ -6,6 +6,7 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
@@ -224,9 +225,6 @@
     <option name="USE_PAC_URL" value="false" />
     <option name="PAC_URL" value="" />
   </component>
-  <component name="PhpRefactoringSettings">
-    <option name="RENAME_FIELD_ACCESSORS" value="false" />
-  </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://D:/flex-projects/Lily2/as3-lib/src/locale/tr_TR/Main.properties" separator="\u005f" />
     <file url="file://D:/flex-projects/Lily2/as3-lib/src/locale/nl_NL/Main.properties" separator="\u005f" />
@@ -273,7 +271,7 @@
     <option name="EXPERT_MODE" value="true" />
   </component>
   <component name="SvnApplicationSettings">
-    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+    <option name="mySvnCommandLine" value="C:\Program Files (x86)\Subversion\bin\svn.exe" />
   </component>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="TAB" />
@@ -328,6 +326,16 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
+    <debuggers>
+      <debugger id="javascript">
+        <configuration>
+          <custom-object-presentation />
+        </configuration>
+      </debugger>
+      <debugger id="groovy_debugger">
+        <configuration />
+      </debugger>
+    </debuggers>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
@@ -346,4 +354,5 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="com.intellij.openapi.diff.impl.external.DiffManagerImpl" COMPARISON_POLICY="Default" />
 </application>

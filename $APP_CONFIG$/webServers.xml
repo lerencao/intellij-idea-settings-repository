@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="03c43566-eabb-444f-bcfb-47231d0d60a5" name="eM-Paris" url="http://www.edumedia-sciences.com">
-        <fileTransfer host="212.129.18.254" port="22" rootFolder="/srv/data/bavKeod8/" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
+        <fileTransfer host="31.170.8.38" port="22" rootFolder="/srv/data/bavKeod8/" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
