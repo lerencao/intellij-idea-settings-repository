@@ -64,7 +64,7 @@
   <component name="FileEditorProviderManager">
     <option name="selectedProviders">
       <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
+        <entry key="text-editor,MarkdownPreviewEditor" value="text-editor" />
       </map>
     </option>
   </component>
@@ -349,8 +349,8 @@
       <option name="RECENT_TEMPLATES">
         <value>
           <list size="2">
-            <item index="0" class="java.lang.String" itemvalue="jQuery JS File" />
-            <item index="1" class="java.lang.String" itemvalue="Jade File" />
+            <item index="0" class="java.lang.String" itemvalue="Jade File" />
+            <item index="1" class="java.lang.String" itemvalue="jQuery JS File" />
           </list>
         </value>
       </option>
