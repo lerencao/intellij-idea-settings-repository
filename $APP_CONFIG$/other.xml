@@ -65,6 +65,7 @@
   <component name="FileEditorProviderManager">
     <option name="selectedProviders">
       <map>
+        <entry key="com.intellij.database.editor.DatabaseTableFileEditorProvider,text-editor" value="com.intellij.database.editor.DatabaseTableFileEditorProvider" />
         <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
       </map>
     </option>
