@@ -323,6 +323,9 @@
   <component name="UsageViewSettings">
     <option name="IS_PREVIEW_USAGES" value="true" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" />
+  </component>
   <component name="XDebuggerSettings">
     <data-views />
     <general />
