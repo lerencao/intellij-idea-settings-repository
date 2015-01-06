@@ -22,8 +22,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="quentin.t@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.edumedia-sciences.com:edumedia-dev/edumedia-2014-style-guide.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev\Rue89" />
+    <option name="cloneParentDir" value="D:\eM2014" />
   </component>
 </application>
