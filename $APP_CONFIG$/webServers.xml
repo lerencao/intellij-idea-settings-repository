@@ -78,6 +78,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="858b877f-baf8-4a12-8abf-1034152c9c4b" name="Maisons Particulières" url="http://199.188.221.21">
+        <fileTransfer host="199.188.221.21" port="21" password="dfdbdfdbdf93dfe2dfcfdf9edfe2dfdfdffedfdcdfdadfd3dfcedf98dfe3dfdb" username="web@maisonsparticulieres.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
