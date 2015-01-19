@@ -26,8 +26,12 @@
           <option name="url" value="git@gitlab.edumedia-sciences.com:edumedia-dev/edumedia-2014-style-guide.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/quentint/sass-svg-util.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\eM2014" />
+    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev" />
   </component>
 </application>
