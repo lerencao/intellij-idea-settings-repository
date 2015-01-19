@@ -30,8 +30,12 @@
           <option name="url" value="https://github.com/quentint/sass-svg-util.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/quentint/tkwk-fonts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev" />
+    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev\tkwk-sass" />
   </component>
 </application>
