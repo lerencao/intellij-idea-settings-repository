@@ -63,6 +63,13 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
+      </map>
+    </option>
+  </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://D:/flex-projects/Lily2/as3-lib/src/locale/tr_TR/Main.properties" separator="\u005f" />
     <file url="file://D:/flex-projects/Lily2/as3-lib/src/locale/nl_NL/Main.properties" separator="\u005f" />
