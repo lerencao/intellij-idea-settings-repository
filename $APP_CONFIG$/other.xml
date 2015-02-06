@@ -5,7 +5,6 @@
     <option name="SAFE_DELETE_SEARCH_IN_NON_JAVA" value="false" />
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
-    <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
     <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
@@ -64,6 +63,13 @@
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="FileEditorProviderManager">
+    <option name="selectedProviders">
+      <map>
+        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
+      </map>
+    </option>
   </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://D:/flex-projects/Lily2/as3-lib/src/locale/tr_TR/Main.properties" separator="\u005f" />
