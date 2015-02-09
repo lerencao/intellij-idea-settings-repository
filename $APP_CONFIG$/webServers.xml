@@ -92,6 +92,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b456b29e-5f6d-4ba9-835d-aac6fe9b4806" name="aartz" url="http://aartz.fr">
+        <fileTransfer host="aartz.fr" port="22" rootFolder="/clickandbuilds/WordPress/Aartz" accessType="SFTP" password="dfcbdfcbdfd8dfdedfd0df98df9adf9bdf9f" username="u79163425">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
