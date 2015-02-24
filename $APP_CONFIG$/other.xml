@@ -6,6 +6,7 @@
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_FILE" value="false" />
     <option name="RENAME_SEARCH_FOR_REFERENCES_FOR_DIRECTORY" value="false" />
+    <option name="MOVE_SEARCH_FOR_REFERENCES_FOR_FILE" value="false" />
   </component>
   <component name="DebuggerSettings">
     <option name="TRACING_FILTERS_ENABLED" value="true" />
@@ -62,13 +63,6 @@
     <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
-  </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
-      </map>
-    </option>
   </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_PARAMETERS" value="false" />
@@ -136,8 +130,8 @@
       <option name="RECENT_TEMPLATES">
         <value>
           <list size="2">
-            <item index="0" class="java.lang.String" itemvalue="Jade File" />
-            <item index="1" class="java.lang.String" itemvalue="jQuery JS File" />
+            <item index="0" class="java.lang.String" itemvalue="jQuery JS File" />
+            <item index="1" class="java.lang.String" itemvalue="Jade File" />
           </list>
         </value>
       </option>
