@@ -51,14 +51,6 @@
         <property name="MemberChooser.copyJavadoc" value="false" />
       </component>
       <component name="RunManager">
-        <configuration default="true" type="Remote" factoryName="Remote">
-          <option name="USE_SOCKET_TRANSPORT" value="true" />
-          <option name="SERVER_MODE" value="false" />
-          <option name="SHMEM_ADDRESS" value="javadebug" />
-          <option name="HOST" value="localhost" />
-          <option name="PORT" value="5005" />
-          <method />
-        </configuration>
         <configuration default="true" type="JUnit" factoryName="JUnit">
           <module name="" />
           <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -77,6 +69,14 @@
           </option>
           <envs />
           <patterns />
+          <method />
+        </configuration>
+        <configuration default="true" type="Remote" factoryName="Remote">
+          <option name="USE_SOCKET_TRANSPORT" value="true" />
+          <option name="SERVER_MODE" value="false" />
+          <option name="SHMEM_ADDRESS" value="javadebug" />
+          <option name="HOST" value="localhost" />
+          <option name="PORT" value="5005" />
           <method />
         </configuration>
         <configuration default="true" type="Applet" factoryName="Applet">
