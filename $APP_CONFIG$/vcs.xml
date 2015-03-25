@@ -38,8 +38,16 @@
           <option name="url" value="https://github.com/rue89-tech/mobile-2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.edumedia-sciences.com:qthiaucourt/lily.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.edumedia-sciences.com:qthiaucourt/lily-lib.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Quentin\Desktop\Dropbox\dev\Rue89" />
+    <option name="cloneParentDir" value="D:\flex-projects\Lily2\" />
   </component>
 </application>
