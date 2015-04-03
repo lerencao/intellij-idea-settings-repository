@@ -22,7 +22,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="75003652-907d-4a44-959d-c0d437d68c23" name="dev2008" url="http://qthiaucourt.dev.edumedia-sciences.com/">
+      <webServer id="75003652-907d-4a44-959d-c0d437d68c23" name="dev2008" url="http://dev2008.edumedia-sciences.com/">
         <fileTransfer host="dev.edumedia-sciences.com" port="22" rootFolder="/home/qthiaucourt/dev/www" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
