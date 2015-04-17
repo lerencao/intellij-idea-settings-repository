@@ -69,6 +69,7 @@
     <option name="selectedProviders">
       <map>
         <entry key="text-editor,MarkdownPreviewEditor" value="MarkdownPreviewEditor" />
+        <entry key="text-editor,com.intellij.database.editor.CsvTableFileEditorProvider" value="text-editor" />
       </map>
     </option>
   </component>
