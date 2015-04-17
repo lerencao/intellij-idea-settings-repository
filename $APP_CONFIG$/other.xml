@@ -65,13 +65,6 @@
     <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
-  <component name="FileEditorProviderManager">
-    <option name="selectedProviders">
-      <map>
-        <entry key="text-editor,MarkdownPreviewEditor" value="text-editor" />
-      </map>
-    </option>
-  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_PARAMETERS" value="false" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
@@ -139,8 +132,8 @@
       <option name="RECENT_TEMPLATES">
         <value>
           <list size="2">
-            <item index="0" class="java.lang.String" itemvalue="Jade File" />
-            <item index="1" class="java.lang.String" itemvalue="jQuery JS File" />
+            <item index="0" class="java.lang.String" itemvalue="jQuery JS File" />
+            <item index="1" class="java.lang.String" itemvalue="Jade File" />
           </list>
         </value>
       </option>
