@@ -99,6 +99,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="75e1d515-295f-4f24-a219-c6efd8e2316c" name="Drop-in" url="http://dropinwaterjump.fr">
+        <fileTransfer host="ftp.dropinwaterjump.fr" port="21" rootFolder="/www" username="dropinwaof">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
