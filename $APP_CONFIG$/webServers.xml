@@ -106,6 +106,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="693a6b67-e3f4-4e47-be57-0acb059b05cc" name="arte-cop21" url="http://arte-php56.sdv.fr">
+        <fileTransfer host="arte-php56.sdv.fr" port="21" password="dfcbdf98dfd2dfcfdfc5dfebdffcdfe7dff0dfef" username="ftpinfographicsopclim">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
