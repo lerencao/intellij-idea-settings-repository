@@ -113,6 +113,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f50f3178-139e-48c2-807d-90c2264c0a8c" name="prod2014" url="http://www.edumedia-sciences.com">
+        <fileTransfer host="31.170.8.38" port="22" rootFolder="/home/edumedia2015" accessType="SFTP" password="dfc5dfd9dfc4dfd3dfcfdfc9dfc1dfd9" username="edumedia2015">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
