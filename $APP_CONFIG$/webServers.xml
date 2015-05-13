@@ -100,7 +100,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4fcbdc30-4cf9-4327-bb87-821a99d9f6e8" name="Drop-in" url="http://dropinwaterjump.fr">
-        <fileTransfer host="ftp.dropinwaterjump.fr" port="21" rootFolder="/www" username="dropinwaof">
+        <fileTransfer host="ftp.dropinwaterjump.fr" port="21" rootFolder="/www" password="dfdadfecdfdcdf9ddff9dfd3dfe2dfffdff9dffcdfc2dff2" username="dropinwaof">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
