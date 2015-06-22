@@ -87,9 +87,6 @@
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />
   </component>
-  <component name="SvnApplicationSettings">
-    <option name="mySvnCommandLine" value="C:\Program Files (x86)\Subversion\bin\svn.exe" />
-  </component>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="TAB" />
   </component>
