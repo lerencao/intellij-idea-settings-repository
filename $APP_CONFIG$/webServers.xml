@@ -127,8 +127,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="91203be4-c58d-4126-b51b-1a94e19d223e" name="Les Gardeurs (prod)" url="http://gardeurs.upian4.typhon.net">
-        <fileTransfer host="gardeurs.upian4.typhon.net" port="21" password="df92dffadf9edffbdf9ddf9cdf98df9bdfebdf9fdffedf99dfcf" username="gardeurs">
+      <webServer id="91203be4-c58d-4126-b51b-1a94e19d223e" name="Les Gardeurs (prod)" url="http://liberons-nos-objets.com">
+        <fileTransfer host="liberons-nos-objets.com" port="21" password="df92dffadf9edffbdf9ddf9cdf98df9bdfebdf9fdffedf99dfcf" username="gardeurs">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
