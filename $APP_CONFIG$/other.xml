@@ -87,19 +87,6 @@
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />
   </component>
-  <component name="SvnApplicationSettings">
-    <option name="myCheckoutURLs">
-      <list>
-        <option value="http://upian.net/gardeurs/svn/trunk/" />
-      </list>
-    </option>
-    <option name="myTypedURLs">
-      <list>
-        <option value="http://upian.net/gardeurs/svn/trunk/" />
-      </list>
-    </option>
-    <option name="mySvnCommandLine" value="C:\Program Files (x86)\Subversion\bin\svn.exe" />
-  </component>
   <component name="TemplateSettings">
     <defaultShortcut shortcut="TAB" />
   </component>
@@ -126,16 +113,6 @@
   <component name="XDebuggerSettings">
     <data-views />
     <general />
-    <debuggers>
-      <debugger id="javascript">
-        <configuration>
-          <custom-object-presentation />
-        </configuration>
-      </debugger>
-      <debugger id="groovy_debugger">
-        <configuration />
-      </debugger>
-    </debuggers>
   </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
