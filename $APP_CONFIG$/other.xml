@@ -100,11 +100,6 @@
         <option value="http://upian.net/gardeurs/svn/trunk/" />
       </list>
     </option>
-    <option name="myTypedURLs">
-      <list>
-        <option value="http://upian.net/gardeurs/svn/trunk/" />
-      </list>
-    </option>
     <option name="mySvnCommandLine" value="C:\Program Files (x86)\Subversion\bin\svn.exe" />
   </component>
   <component name="TemplateSettings">
