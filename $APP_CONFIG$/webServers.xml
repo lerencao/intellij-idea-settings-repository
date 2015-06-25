@@ -134,6 +134,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9169233d-b24c-4935-a3dd-15600d1331de" name="Valerie Knight" url="http://ftp.valerie-knight.fr">
+        <fileTransfer host="ftp.valerie-knight.fr" port="21" rootFolder="/www/main" password="dfe2dfc9dfdbdfffdfe7dffedfcedfe1" username="valerieko">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
