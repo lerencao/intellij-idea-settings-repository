@@ -54,8 +54,12 @@
           <option name="url" value="git@gitlab.edumedia-sciences.com:es2015/es2015.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.edumedia-sciences.com:es2015/as3-compo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\html5" />
+    <option name="cloneParentDir" value="D:\as3\local" />
   </component>
 </application>
