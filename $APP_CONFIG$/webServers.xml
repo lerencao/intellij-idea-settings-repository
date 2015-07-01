@@ -141,6 +141,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="be323c75-ecfc-4a54-b87c-6f7a65d8a93c" name="Les Gardeurs (preprod)" url="http://liberons-nos-objets.com">
+        <fileTransfer host="liberons-nos-objets.com" port="21" password="dfc6dfe5df9bdf9ddf9ddf9fdfcddfc6dfe8df99df9bdf93dfeb" username="gardeurs_preprod">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
