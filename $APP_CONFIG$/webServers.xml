@@ -148,7 +148,7 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="ff8b3fa4-afad-47c6-b338-bd7a0ec4e2ba" name="Spassky Fischer" url="http://www.spassky-fischer.fr">
+      <webServer id="ff8b3fa4-afad-47c6-b338-bd7a0ec4e2ba" name="Spassky Fischer" url="http://spassky-fischer.fr">
         <fileTransfer host="sftp.dc0.gpaas.net" port="22" rootFolder="/vhosts/spassky-fischer.fr/htdocs" accessType="SFTP" password="dfc9dfcbdfd8dfd9dfc5dfc4df87dfc8dfc5dfc5dfc7" username="1078256">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
