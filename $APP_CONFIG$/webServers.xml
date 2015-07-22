@@ -155,6 +155,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="a1846086-849f-403c-b414-12146f60ed5e" name="Drapeau Noir" url="http://drapeau-noir.fr/v2/">
+        <fileTransfer host="ftp.cluster007.ovh.net" port="21" rootFolder="/www/v2" password="dff0dfcedfd0df99dfc9df98dfdfdfe6df9ddfe8df9cdffbdfefdf99dfdcdfffdfc7dff8dfd9dfe8" username="drapeaunhv">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
     <sftpAdvancedGlobalOptions>
       <SftpAdvancedOptions />
