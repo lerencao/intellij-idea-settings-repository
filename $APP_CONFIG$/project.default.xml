@@ -28,7 +28,6 @@
         <option name="SKIP_IMPORT_STATEMENTS" value="false" />
       </component>
       <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -88,6 +87,12 @@
           <method />
         </configuration>
         <list size="0" />
+        <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+        </configuration>
         <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />
           <option name="VM_PARAMETERS" value="-ea" />
