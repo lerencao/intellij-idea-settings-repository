@@ -1,6 +1,6 @@
 <application>
-  <component name="FileTypeManager" version="11">
-    <ignoreFiles list="CVS;SCCS;RCS;rcs;.DS_Store;.svn;.pyc;.pyo;*.pyc;*.pyo;.git;*.hprof;_svn;.hg;*.lib;*~;__pycache__;.bundle;*.rbc;" />
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.pyc;.pyo;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="ttf" type="Native" />
       <mapping ext="air" type="Native" />
@@ -11,6 +11,5 @@
       <mapping ext="gss" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
     </extensionMap>
-    <setting name="fileTypeChangedCounter" value="9" />
   </component>
 </application>

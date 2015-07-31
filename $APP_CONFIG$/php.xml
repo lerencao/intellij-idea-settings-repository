@@ -1,13 +1,15 @@
 <application>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\binaries\php\php_runningversion" id="c2898ec2-4917-404b-add1-23f88cbb3513" name="PHP" />
+      <interpreter home="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\binaries\php\php_runningversion" id="c2898ec2-4917-404b-add1-23f88cbb3513" name="PHP" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP">
-        <phpinfo version="5.5.8">
+        <phpinfo binary_type="PHP" php_cli="" path_separator=";" remote_host="127.0.0.1" version="5.5.8">
+          <additional_php_ini />
+          <configuration_file />
           <configuration_options>
             <configuration_option name="SMTP" value="127.0.0.1" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -214,6 +216,7 @@
             <configuration_option name="zlib.output_compression_level" value="-1" />
             <configuration_option name="zlib.output_handler" value="" />
           </configuration_options>
+          <debuggers />
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
