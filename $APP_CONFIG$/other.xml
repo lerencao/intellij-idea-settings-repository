@@ -94,10 +94,6 @@
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" />
   </component>
-  <component name="XDebuggerSettings">
-    <data-views />
-    <general />
-  </component>
   <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
     <recent_templates>
       <option name="RECENT_TEMPLATES">
