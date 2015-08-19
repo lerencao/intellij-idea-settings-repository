@@ -52,7 +52,7 @@
   </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_PARAMETERS" value="false" />
-    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="public" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
   </component>
   <component name="PropertiesSeparatorManager">
     <file url="file://D:/flex-projects/Lily2/as3-lib/src/locale/tr_TR/Main.properties" separator="\u005f" />
