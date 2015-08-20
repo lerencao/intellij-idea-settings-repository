@@ -2,7 +2,6 @@
   <component name="ProjectManager">
     <defaultProject version="4">
       <component name="CompilerConfiguration">
-        <option name="DEFAULT_COMPILER" />
         <resourceExtensions />
         <wildcardResourcePatterns>
           <entry name="!?*.java" />
@@ -24,7 +23,6 @@
       <component name="NamedScopeManager">
         <order />
       </component>
-      <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="ProjectLevelVcsManager" settingsEditedManually="false">
         <OptionsSetting value="true" id="Add" />
         <OptionsSetting value="true" id="Remove" />
@@ -38,15 +36,7 @@
       <component name="ProjectModuleManager">
         <modules />
       </component>
-      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" assert-keyword="true" jdk-15="true" />
-      <component name="PropertiesComponent">
-        <property name="GoToClass.includeLibraries" value="false" />
-        <property name="GoToClass.toSaveIncludeLibraries" value="false" />
-        <property name="GoToFile.includeJavaFiles" value="false" />
-        <property name="MemberChooser.sorted" value="false" />
-        <property name="MemberChooser.showClasses" value="true" />
-        <property name="MemberChooser.copyJavadoc" value="false" />
-      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
           <module />
@@ -76,6 +66,12 @@
           <option name="HOST" value="localhost" />
           <option name="PORT" value="5005" />
           <method />
+        </configuration>
+        <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+          <option name="MAIN_CLASS_NAME" />
+          <option name="VM_PARAMETERS" value="-ea" />
+          <option name="PARAMETERS" />
+          <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
         </configuration>
         <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
           <option name="MAIN_CLASS_NAME" />

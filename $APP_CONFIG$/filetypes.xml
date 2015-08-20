@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="14">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
-      <mapping ext="editorconfig" type="Ini" />
       <mapping ext="ttf" type="Native" />
       <mapping ext="air" type="Native" />
       <mapping ext="fla" type="Native" />
@@ -13,6 +12,7 @@
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="gss" type="PLAIN_TEXT" />
       <mapping ext="xliff" type="XML" />
+      <mapping ext="editorconfig" type="Ini" />
     </extensionMap>
   </component>
 </application>
