@@ -1,0 +1,167 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ddc489cd-bd89-4bf5-b01d-ab30a98b22eb" name="toki-woki.net" url="http://toki-woki.net">
+        <fileTransfer host="ftp.toki-woki.net" port="21" rootFolder="/www" password="dfc6df99dfdedfc7dfcfdf9bdfc4" username="tokiwoki">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3aa2ada4-675f-4074-b305-665022d55cbf" name="metro.paris (lab)" url="http://toki-woki.net">
+        <fileTransfer host="ftp.toki-woki.net" port="21" rootFolder="/www/lab/metro-paris-tests" password="dfc6df99dfdedfc7dfcfdf9bdfc4" username="tokiwoki">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="f8edb2e2-6ab1-42cf-bb31-0c84c50b680f" name="metro.paris dev ssh" url="http://dev.metro.humantohuman3.typhon.net">
+        <fileTransfer host="dev.metro.humantohuman3.typhon.net" port="22" accessType="SFTP" password="dfc9dfc2dfcbdfc2dffbdfdfdfcbdfcbdf9cdfc9dfcfdfc3" username="humantohuman">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="75003652-907d-4a44-959d-c0d437d68c23" name="dev2008" url="http://dev2008.edumedia-sciences.com/">
+        <fileTransfer host="dev.edumedia-sciences.com" port="22" rootFolder="/home/qthiaucourt/dev/www" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="03c43566-eabb-444f-bcfb-47231d0d60a5" name="eM-Paris" url="http://www.edumedia-sciences.com">
+        <fileTransfer host="31.170.8.38" port="22" rootFolder="/srv/data/bavKeod8/" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7f156aa3-8dc3-4261-a5ac-3ebd0f70bfca" name="HeyHeyButton" url="http://heyheybutton.com">
+        <fileTransfer host="70.32.83.45" port="21" password="dfc9dfc5dfd8dfc4dfcfdfcedfc8dfcfdfcfdfccdf8edf9bdf9fdf84df93df93" username="heyheybutton.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="843cc04e-c5a7-426d-8411-7d4b1db0f94f" name="Maison Athénée" url="http://maisonathenee.com">
+        <fileTransfer host="maisonathenee.com" port="21" password="dfdddfd9dffedf9bdfc4df9cdffadffddfeddff2df9bdfcbdfccdffddfc4dfed" username="web@maisonathenee.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="fe486de3-c89a-490b-a1e7-fc31d0806d33" name="Transbal Express" url="http://transbalexpress.fr">
+        <fileTransfer host="ftp.transbalexpress.fr" port="21" rootFolder="/www" password="dfd3df99dfc7dfe9dfeedfd8dffcdfe8dfd0dfe8dfc8dfed" username="transbaljq">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="06c0f0df-8891-4967-9aab-380994844a30" name="dev2014 / qthiaucourt" url="http://qthiaucourt2.dev.edumedia-sciences.com/">
+        <fileTransfer host="dev.edumedia-sciences.com" port="22" rootFolder="/home/qthiaucourt/dev/edumedia-2014" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="21b80bd7-678a-48c1-89bf-808107790b85" name="Bureau Parade" url="http://ftp.bureauparade.com">
+        <fileTransfer host="ftp.bureauparade.com" port="21" rootFolder="/www" password="dfcedfcfdfcddfcbdfdfdfc6dfc6dfcfdf99df99" username="bureaupav">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="8e6ed7c2-51a2-4063-bf2f-f43d595dd3fe" name="Maison Souquet" url="http://www.maisonsouquet.com">
+        <fileTransfer host="ftp.maisonsouquet.com" port="21" password="df9cdfdedfe2dfebdfe5dfc9df98dffedfdfdfcedfdddfe5dff2dfd3dfdcdf99" username="web@maisonsouquet.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="858b877f-baf8-4a12-8abf-1034152c9c4b" name="Maisons Particulières" url="http://199.188.221.21">
+        <fileTransfer host="199.188.221.21" port="21" password="dfdbdfdbdf93dfe2dfcfdf9edfe2dfdfdffedfdcdfdadfd3dfcedf98dfe3dfdb" username="web@maisonsparticulieres.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6b769224-bb9d-450f-8f49-8c8fd013dff9" name="dev2014" url="http://www.dev2014.edumedia-sciences.com/">
+        <fileTransfer host="dev.edumedia-sciences.com" port="22" rootFolder="/home/edumedia2/dev" accessType="SFTP" password="dfe8dfc5dfc3dfdcdfe5dfcedfdcdfc5dfc5dfc9" username="edumedia2">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="b456b29e-5f6d-4ba9-835d-aac6fe9b4806" name="aartz" url="http://aartz.fr">
+        <fileTransfer host="aartz.fr" port="22" rootFolder="/clickandbuilds/WordPress/Aartz" accessType="SFTP" password="dfcbdfcbdfd8dfdedfd0df98df9adf9bdf9f" username="u79163425">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="4fcbdc30-4cf9-4327-bb87-821a99d9f6e8" name="Drop-in" url="http://dropinwaterjump.fr">
+        <fileTransfer host="ftp.dropinwaterjump.fr" port="21" rootFolder="/www" password="dfdadfecdfdcdf9ddff9dfd3dfe2dfffdff9dffcdfc2dff2" username="dropinwaof">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="693a6b67-e3f4-4e47-be57-0acb059b05cc" name="arte-cop21" url="http://infographic.arte.tv/info/operationclimat/">
+        <fileTransfer host="arte-php56.sdv.fr" port="21" password="dfcbdf98dfd2dfcfdfc5dfebdffcdfe7dff0dfef" username="ftpinfographicsopclim">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9c16546e-321d-41b7-9162-8b163acc8c07" name="prod2014" url="http://www.edumedia-sciences.com/">
+        <fileTransfer host="31.170.8.38" port="22" rootFolder="/home/edumedia2015/symfony" accessType="SFTP" password="dfc5dfd9dfc4dfd3dfcfdfc9dfc1dfd9" username="edumedia2015">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="36097ca4-8337-4aa3-b52c-c04736fea4a3" name="prod2008" url="http://www.edumedia-sciences.com/">
+        <fileTransfer host="31.170.8.38" port="22" rootFolder="/home/qthiaucourt" accessType="SFTP" password="df95dfc6df99dfdedfc7dfcfdf9bdfc4" username="qthiaucourt">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="91203be4-c58d-4126-b51b-1a94e19d223e" name="Les Gardeurs (prod)" url="http://liberons-nos-objets.com">
+        <fileTransfer host="liberons-nos-objets.com" port="21" password="df92dffadf9edffbdf9ddf9cdf98df9bdfebdf9fdffedf99dfcf" username="gardeurs">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="9169233d-b24c-4935-a3dd-15600d1331de" name="Valerie Knight" url="http://ftp.valerie-knight.fr">
+        <fileTransfer host="ftp.valerie-knight.fr" port="21" rootFolder="/www/main" password="dfe2dfc9dfdbdfffdfe7dffedfcedfe1" username="valerieko">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="be323c75-ecfc-4a54-b87c-6f7a65d8a93c" name="Les Gardeurs (preprod)" url="http://liberons-nos-objets.com">
+        <fileTransfer host="liberons-nos-objets.com" port="21" password="dfc6dfe5df9bdf9ddf9ddf9fdfcddfc6dfe8df99df9bdf93dfeb" username="gardeurs_preprod">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ff8b3fa4-afad-47c6-b338-bd7a0ec4e2ba" name="Spassky Fischer" url="http://spassky-fischer.fr">
+        <fileTransfer host="sftp.dc0.gpaas.net" port="22" rootFolder="/vhosts/spassky-fischer.fr/htdocs/tmp/" accessType="SFTP" password="dfc9dfcbdfd8dfd9dfc5dfc4df87dfc8dfc5dfc5dfc7" username="1078256">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a1846086-849f-403c-b414-12146f60ed5e" name="Drapeau Noir" url="http://drapeau-noir.fr/v2/">
+        <fileTransfer host="ftp.cluster007.ovh.net" port="21" rootFolder="/www/v2" password="dff0dfcedfd0df99dfc9df98dfdfdfe6df9ddfe8df9cdffbdfefdf99dfdcdfffdfc7dff8dfd9dfe8" username="drapeaunhv">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
