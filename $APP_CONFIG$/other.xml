@@ -1,6 +1,0 @@
-<application>
-  <component name="PhpRefactoringSettings">
-    <option name="RENAME_PARAMETERS" value="false" />
-    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
-  </component>
-</application>
