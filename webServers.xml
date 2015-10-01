@@ -162,6 +162,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="e152dbee-2eb0-4f09-b958-af329426bf18" name="SOLO" url="http://ftp.solo-projects.com">
+        <fileTransfer host="ftp.solo-projects.com" port="21" rootFolder="/www/main" password="dffcdfe4dfd0dfd0df98dfffdfc0dfffdfd2dff3dfebdfd2" username="soloprojjv">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
