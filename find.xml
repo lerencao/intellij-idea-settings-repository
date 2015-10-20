@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="customScope" value="Directory 'D:\sites\eM2014\edumedia-2014\src\eduMedia\FrontBundle\Controller'" />
+    <option name="defaultScopeName" value="Directory 'D:\sites\eM2014\edumedia-2014\src\eduMedia\FrontBundle\Controller'" />
+    <option name="SEARCH_SCOPE" value="Directory 'D:\sites\eM2014\edumedia-2014\src\eduMedia\FrontBundle\Controller'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
