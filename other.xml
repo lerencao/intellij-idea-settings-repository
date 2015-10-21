@@ -100,6 +100,7 @@
   </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_PARAMETERS" value="false" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
     <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
   </component>
   <component name="PropertiesSeparatorManager">
