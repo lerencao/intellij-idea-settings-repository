@@ -169,6 +169,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d1b708b9-2f09-480b-a0b9-cfbd45e46032" name="Cap GenWhat" url="http://78.109.91.9">
+        <fileTransfer host="78.109.91.9" port="22" rootFolder="/home/upian/capistrano/genwhat" accessType="SFTP" password="dfc5dfc2dfc4df98dfebdfc2dff2dfcbdfc2df98dfcedfdf" username="upian">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
