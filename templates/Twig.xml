@@ -1,0 +1,14 @@
+<templateSet group="Twig">
+  <template name="trans" value="{{ '$CURSOR$'|trans }}" description="Translate" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="td" value="{{ 'front.$CURSOR$'|transDomain }}" description="Translate (domain)" toReformat="false" toShortenFQNames="true">
+    <variable name="CURSOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
