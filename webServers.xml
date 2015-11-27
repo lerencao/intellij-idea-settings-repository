@@ -155,8 +155,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="a1846086-849f-403c-b414-12146f60ed5e" name="Drapeau Noir" url="http://drapeau-noir.fr/v2/">
-        <fileTransfer host="ftp.cluster005.ovh.net" port="21" rootFolder="/www/v2" password="dffedff3dfdadfdedfe0dfe9dfc1df9edfe8dff2df9ddfc2" username="drapeaunsy">
+      <webServer id="a1846086-849f-403c-b414-12146f60ed5e" name="Drapeau Noir" url="http://drapeau-noir.fr/">
+        <fileTransfer host="ftp.cluster005.ovh.net" port="21" rootFolder="/www/" password="dffedff3dfdadfdedfe0dfe9dfc1df9edfe8dff2df9ddfc2" username="drapeaunsy">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
