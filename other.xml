@@ -122,6 +122,9 @@
   <component name="SelectProjectTemplateSettings">
     <option name="EXPERT_MODE" value="true" />
   </component>
+  <component name="SvgViewer.Settings">
+    <option name="PLUGIN_ENABLED" value="true" />
+  </component>
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
