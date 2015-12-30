@@ -1,11 +1,18 @@
 <application>
   <component name="libraryTable">
-    <library name="easeljs-0.8.1" type="javaScript">
+    <library name="d3.v3" type="javaScript">
       <properties>
         <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_easeljs-0.8.1.min.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_d3.v3.js" />
         </sourceFilesUrls>
       </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_d3js.org_d3.v3.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="easeljs-0.8.1" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_easeljs-0.8.1.min.js" />
       </CLASSES>
@@ -13,11 +20,6 @@
       <SOURCES />
     </library>
     <library name="movieclip-0.8.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_movieclip-0.8.1.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_movieclip-0.8.1.min.js" />
       </CLASSES>
@@ -25,11 +27,6 @@
       <SOURCES />
     </library>
     <library name="preloadjs-0.6.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_preloadjs-0.6.1.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_preloadjs-0.6.1.min.js" />
       </CLASSES>
@@ -37,11 +34,6 @@
       <SOURCES />
     </library>
     <library name="tweenjs-0.6.1" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_tweenjs-0.6.1.min.js" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_tweenjs-0.6.1.min.js" />
       </CLASSES>
