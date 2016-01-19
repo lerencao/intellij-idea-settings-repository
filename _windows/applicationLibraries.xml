@@ -1,5 +1,40 @@
 <application>
   <component name="libraryTable">
+    <library name="air-sqlite" type="flex">
+      <CLASSES>
+        <root url="file://D:/as3/git/air-sqlite/src" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="analytics" type="flex">
+      <CLASSES>
+        <root url="jar://D:/as3/local/swc/gaforflash-1.0.1.319/lib/analytics.swc!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="as3-bits" type="flex">
+      <CLASSES>
+        <root url="file://D:/as3/svn/as3-bits/bits/src" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="as3-local" type="flex">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/as3/local/src" />
+      </SOURCES>
+    </library>
+    <library name="as3corelib" type="flex">
+      <CLASSES>
+        <root url="file://D:/as3/git/as3corelib/src" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="easeljs-0.8.1" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_easeljs-0.8.1.min.js" />
@@ -17,6 +52,13 @@
     <library name="preloadjs-0.6.1" type="javaScript">
       <CLASSES>
         <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_preloadjs-0.6.1.min.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="robotlegs-framework-v1.5.2" type="flex">
+      <CLASSES>
+        <root url="jar://D:/as3/local/swc/robotlegs-framework-v1.5.2.swc!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
