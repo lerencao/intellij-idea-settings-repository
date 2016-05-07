@@ -50,9 +50,7 @@
       <SOURCES />
     </library>
     <library name="easeljs-0.8.1" type="javaScript">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_easeljs-0.8.1.min.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -64,37 +62,27 @@
       <SOURCES />
     </library>
     <library name="FCMobileLibrary" type="flex">
-      <CLASSES>
-        <root url="jar://D:/as3/git/flexcapacitor/MainMobileLibrary/bin/FCMobileLibrary.swc!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="flash-console" type="flex">
-      <CLASSES>
-        <root url="jar://D:/as3/svn/flash-console/bin/Console.swc!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="lily2-as3-lib" type="flex">
-      <CLASSES>
-        <root url="file://D:/flex-projects/Lily2/as3-lib/src" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="movieclip-0.8.1" type="javaScript">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_movieclip-0.8.1.min.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="preloadjs-0.6.1" type="javaScript">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_preloadjs-0.6.1.min.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
@@ -113,19 +101,14 @@
       <SOURCES />
     </library>
     <library name="robotlegs-framework-v2.1.0" type="flex">
-      <CLASSES>
-        <root url="jar://D:/as3/git/robotlegs-framework-v2.1.0/bin/robotlegs-framework-v2.1.0.swc!/" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="Stats" type="flex">
       <CLASSES />
       <JAVADOC />
-      <SOURCES>
-        <root url="file://D:/as3/git/Hi-ReS-Stats/src" />
-      </SOURCES>
-      <jarDirectory url="file://D:/as3/git/Hi-ReS-Stats/src" recursive="false" type="SOURCES" />
+      <SOURCES />
     </library>
     <library name="three" type="javaScript">
       <properties>
@@ -133,16 +116,12 @@
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_three.js_r73_three.js" />
         </sourceFilesUrls>
       </properties>
-      <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_three.js_r73_three.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
     <library name="tweenjs-0.6.1" type="javaScript">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.IntelliJIdea14/system/extLibs/http_code.createjs.com_tweenjs-0.6.1.min.js" />
-      </CLASSES>
+      <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
