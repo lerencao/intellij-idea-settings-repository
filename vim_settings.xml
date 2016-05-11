@@ -9,6 +9,7 @@
         <mark key="^" line="33" column="25" />
         <mark key="." line="33" column="25" />
       </file>
+      <file name="$USER_HOME$/open-sources/copycat/client/src/main/java/io/atomix/copycat/client/CopycatClient.java" timestamp="1462933993086" />
     </filemarks>
     <jumps />
     <registers />
@@ -25,6 +26,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
