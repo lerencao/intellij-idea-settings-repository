@@ -3,70 +3,35 @@
     <option name="visitedUrls">
       <list>
         <UrlAndUserName>
-          <option name="url" value="git@gitlab.edumedia-sciences.com:edumedia-dev/edumedia-2014.git" />
+          <option name="url" value="https://github.com/tristanjuricek/knockoff.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/quentint/frontend-starter-kit.git" />
+          <option name="url" value="https://github.com/mitsuhiko/redis-rs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/rue89-tech/upian.git" />
+          <option name="url" value="https://github.com/Vektah/idea-rust.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="http://github.com" />
-          <option name="userName" value="quentin.t@gmail.com" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.edumedia-sciences.com:edumedia-dev/edumedia-2014-style-guide.git" />
+          <option name="url" value="https://github.com/scala/scala-parser-combinators.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/quentint/sass-svg-util.git" />
+          <option name="url" value="https://github.com/yyao/satoshi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/quentint/tkwk-fonts.git" />
+          <option name="url" value="https://github.com/ReactiveX/RxScala.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/quentint/tkwk-font-size.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/rue89-tech/mobile-2.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.edumedia-sciences.com:qthiaucourt/lily.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.edumedia-sciences.com:qthiaucourt/lily-lib.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/quentint/tkwk-responsive-size.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.edumedia-sciences.com:es2015/es2015.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@gitlab.edumedia-sciences.com:es2015/as3-compo.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/quentint/SamlSPBundle.git" />
+          <option name="url" value="https://github.com/dreyk/zraft_lib.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\tools" />
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="C:\Users\Quentin\Desktop" />
+    <option name="cloneParentDir" value="$USER_HOME$/open-source-projects" />
   </component>
 </application>
