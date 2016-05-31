@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Directory 'D:\sites\eM2014\edumedia-2014\src\eduMedia\FrontBundle\Controller'" />
     <option name="defaultScopeName" value="Directory 'D:\sites\eM2014\edumedia-2014\src\eduMedia\FrontBundle\Controller'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Directory 'D:\sites\eM2014\edumedia-2014\src\eduMedia\FrontBundle\Controller'" />
     <recentFileMasks>
       <mask>*.properties</mask>
